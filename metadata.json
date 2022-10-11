@@ -1,0 +1,6 @@
+{
+  "name":"TestModule",
+  "author":"Qazaq12321",
+  "description": "test module for chat triggers",
+  "entry":"index.js"
+}
